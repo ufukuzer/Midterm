@@ -32,29 +32,27 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/ufukuzer/Midterm)
+[^1]: 20080504, [Github Repo](https://github.com/ufukuzer/Midterm)
 
-# Important Information About Midterm
 
-\colorbox{BurntOrange}{WRITE YOUR GITHUB REPO LINK ON LINE 35 IN THIS FILE!}
 
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+Recent increase in CO2 emissions, the governments are focusing on the causes and the relations of CO2 emission more than ever. Therefore, if the states understand the facts and figures of the CO2 emission, they are able to take precautions for next generations.
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
+Due to the reasons above,this project is focusing on the CO2 emissions and their relations with populations, GDP (Gross Domestic Products) per capita, and forest area. Taking the 2019 data from worldbank.com is going to give us real world relations.
+
+My expectation from the analysis is that i will find a relation with CO2 emission and the data set listed in above and how much is going to have an impact on CO2 emission. Then, if i cannot find any relations with CO2 emission with the data set. I will change the data with impact of technological progress or the increase of the number of the cars.
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+In literature review, the cited articles are going to be analyzed more deeply. 
+
+ [@xu2020investigating; @waheed2018forest; @wang2019examining ; @begum2015co2].
 
 
 
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
-
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
 
 \newpage
 # References {#references}
